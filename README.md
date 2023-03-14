@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @firekilin
+- 👋 Hi, I’m @firekilin or IceCubes
 - 👀 I’m interested in coding something cool , read novel
 - 🌱 I’m currently learning English,Angular
 - 💞️ I’m looking to collaborate on 
